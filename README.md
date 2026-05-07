@@ -3,7 +3,7 @@
 Assistant intelligent basé sur une architecture RAG (Retrieval-Augmented Generation) pour l'analyse des tickets de déploiement chez Sonatel.
 
 ## 📸 Aperçu
-![Captures d'écran de l'interface Gradio](./screenshots)
+![Captures d'écran de l'interface Gradio](./screenshots/interface2)
 
 ## 🛠️ Architecture
 Le projet est divisé en 3 modules interconnectés pour plus de scalabilité :

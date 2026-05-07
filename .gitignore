@@ -1,0 +1,8 @@
+# Sécurité : Identifiants Elasticsearch et Ollama
+.env
+
+# Python : Fichiers inutiles ou temporaires
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
